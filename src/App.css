@@ -1,17 +1,4 @@
-img{
-  display:block;
-  margin: auto;
-  margin-top: 50px ;
-  height:300px;
-  width: 400px;
+body {
+  background-color: grey;
+  font-family: Arial;
 }
-h1{text-align: center;
-  color: blue;
-
-}
-h4{
-  text-align: center;}
-
-
-body{
-  background-color: rgb(128, 128, 128);}
